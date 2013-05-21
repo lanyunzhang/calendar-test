@@ -24,7 +24,7 @@ count
 Parameters:
 String[], int
 Returns:
-int
+int   zhanglanyun               zhanglanyun
 Method signature:
 int count(String[] field, int dist)
 (be sure your method is public)
