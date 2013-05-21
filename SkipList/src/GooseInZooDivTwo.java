@@ -16,10 +16,10 @@ The character '.' represents an empty cell.
 Return the number of possible sets of geese in the cage, modulo 1,000,000,007. 
 Note that for some of the test cases there can be no possible sets of geese.
 Definition
-   sd d 
+    
 Class:
 GooseInZooDivTwo
-Method: hshshshhs
+Method:
 count
 Parameters:
 String[], int
